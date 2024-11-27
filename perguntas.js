@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Custo da Viagem', 
     'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'o custo foi entre R$3100,00 na passagem aérea (CAD750,09 em dólar canadense), aquisição via agência'
+    'o custo foi entre R$3100,00 na passagem aérea (CAD750,09 em dólar canadense), aquisição via agência.'
 )
 
 criaCartao(
