@@ -1,35 +1,36 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Informar o destino da viagem.', 
+    'O destino selecionado foi Toronto, Canadá', 
 )
 
 criaCartao(
     'Custo da Viagem', 
     'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
+    'o custo foi entre R$3100,00 na passagem aérea (CAD750,09 em dólar canadense), aquisição via agência'
 )
 
 criaCartao(
     'Fato Curioso', 
     'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
-    'Informar através de um breve texto uma curiosidade.'
+    'Uma das características do Canadá mais conhecidas é o fato de ser multicultural, inclusive, o país conta com diversas políticas de imigração que beneficiam os estrangeiros.
+'O lado positivo dessa mistura é que, você consegue encontrar comida de todos os lugares, inclusive brasileiras. Em Toronto, por exemplo, existe uma região chamada Little Portugal, que conta com muitos brasileiros e, por lá, você encontra feijoada, leite condensado, pão de queijo, entre outros. Em Vancouver tem até um mini mercadinho cheio de produtos brasileiro, e isso também torna os canadenses abertos às diferenças e sempre interessados em aprender sobre novas culturas, o que faz toda a diferença na rotina de quem não é nascido no país.'
 )
 
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
+    'Além de apenas conhecer a cidade, lá possui passeios como o museu Casa Loma, o aquário Ripley Aquarium of Canada e a Galeria de Arte de Ontário.'
 )
 
 criaCartao(
     'Prato Típico', 
     'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+    'Peameal Bacon, é um tipo de bacon canadense, feito de lombo de porco curado e enrolado em farinha de milho, conhecido por sua textura suculenta e sabor levemente adociado.'
 )
 
 criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
+    'a viagem até Toronto foi uma das melhores viagens ja feitas na minha vida, poder conhecer outra cultura, os pontos turísticos anteriormente mencionados, mas com certeza a próxima vez irei tentar ficar por mais tempo, pois duas semanas por incrível foi pouco para conseguir explorar os pontos turísticos da cidade.'
 )
