@@ -13,9 +13,9 @@ criaCartao(
 criaCartao(
     'Fato Curioso', 
     'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
-    'Uma das características do Canadá mais conhecidas é o fato de ser multicultural, inclusive, o país conta com diversas políticas de imigração que beneficiam os estrangeiros.
-'O lado positivo dessa mistura é que, você consegue encontrar comida de todos os lugares, inclusive brasileiras, em Toronto, por exemplo, existe uma região chamada Little Portugal, que conta com muitos brasileiros e, por lá, você encontra feijoada, leite condensado, pão de queijo, entre outros.'
+    'Uma das características do Canadá mais conhecidas é o fato de ser multicultural, inclusive, o país conta com diversas políticas de imigração que beneficiam os estrangeiros.'
 
+    
 criaCartao(
     'Passeios', 
     'Onde passear?', 
